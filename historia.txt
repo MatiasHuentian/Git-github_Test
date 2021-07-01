@@ -1,3 +1,5 @@
 Contando una historia
 
 Cambiando por completo el texto de mi historia
+
+cambiando datos para antes del reset head
